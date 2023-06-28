@@ -20,13 +20,19 @@ Before using this program, make sure you have the following:
    git clone https://github.com/Weyaxi/virustotal-uploader/
    ```
 
-2. Install the required dependencies by running the following command:
-
+2. Nnavigate to the appropriate directory by executing the following command:
+   
    ```shell
-   pip install -r requirements.txt
+   cd virustotal-uploader
    ```
 
-3. Open the "main.py" file in a text editor and replace the api_key variable with your own VirusTotal API key.
+4. Install the required dependencies by running the following command:
+
+   ```shell
+   pip3 install -r requirements.txt
+   ```
+
+5. Open the "main.py" file in a text editor and replace the api_key variable with your own VirusTotal API key.
 
 
 # Usage
