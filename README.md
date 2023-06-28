@@ -43,7 +43,7 @@ The program will upload the file to VirusTotal and open the analysis results in 
 
 To add a "Send to VirusTotal" option to the right-click context menu in Windows Explorer, follow these steps:
 
-1. Open the with_cmd.reg or without_cmd.reg file (depending on whether you want to open a command prompt while sending the file) in a text editor.
+1. Open the `with_cmd.reg` or `without_cmd.reg` file (depending on whether you want to open a command prompt while sending the file) in a text editor.
 
 2. Update the script's and python's file path in the registry file to match the location of the necessary files on your system.
 
@@ -55,5 +55,12 @@ Right-click any file in Windows Explorer and select "Send to VirusTotal". The pr
 
 ## Demo
 
+### Already on VirusTotal
+
+![1](https://github.com/Weyaxi/virustotal-uploader/assets/81961593/90c8e7de-b58e-4a9f-924d-654efee7d900)
+
+### Currently Not On VirusTotal (You Are Uploading)
+
+![2](https://github.com/Weyaxi/virustotal-uploader/assets/81961593/0b62a979-fcf0-4f02-917c-bca02d20ef40)
 
 
