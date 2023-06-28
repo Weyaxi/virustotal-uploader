@@ -20,7 +20,7 @@ Before using this program, make sure you have the following:
    git clone https://github.com/Weyaxi/virustotal-uploader/
    ```
 
-2. Nnavigate to the appropriate directory by executing the following command:
+2. Navigate to the appropriate directory by executing the following command:
    
    ```shell
    cd virustotal-uploader
