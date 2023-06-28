@@ -4,4 +4,4 @@ Windows Registry Editor Version 5.00
 @="Send to VirusTotal"
 
 [HKEY_CLASSES_ROOT\*\shell\Send to VirusTotal\command]
-@="\"C:\\Users\\<user>\\AppData\\Local\\Microsoft\\WindowsApps\\python3.exe\" \"C:\\Users\\yagiz\\Desktop\\main.py\" -file \"%1\""
+@="\"C:\\Users\\<user>\\AppData\\Local\\Microsoft\\WindowsApps\\python3.exe\" \"C:\\Users\\<user>\\Desktop\\main.py\" -file \"%1\""
