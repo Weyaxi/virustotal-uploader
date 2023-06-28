@@ -55,11 +55,11 @@ Right-click any file in Windows Explorer and select "Send to VirusTotal". The pr
 
 ## Demo
 
-### Already on VirusTotal
+### File Already on VirusTotal
 
 ![1](https://github.com/Weyaxi/virustotal-uploader/assets/81961593/90c8e7de-b58e-4a9f-924d-654efee7d900)
 
-### Currently Not On VirusTotal (You Are Uploading)
+### File Currently Not On VirusTotal (You Are Uploading)
 
 ![2](https://github.com/Weyaxi/virustotal-uploader/assets/81961593/0b62a979-fcf0-4f02-917c-bca02d20ef40)
 
