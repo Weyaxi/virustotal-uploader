@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\Send to VirusTotal]
+@="Send to VirusTotal"
+
+[HKEY_CLASSES_ROOT\*\shell\Send to VirusTotal\command]
+@="\"C:\\Users\\<user>\\AppData\\Local\\Microsoft\\WindowsApps\\pythonw.exe\" \"C:\\Users\\<user>\\Desktop\\main.py\" -file \"%1\""
