@@ -10,7 +10,7 @@ Before using this program, make sure you have the following:
 - Liblaries from `requirements.txt`
 - API key from VirusTotal. (You can obtain an API key by creating an account on the VirusTotal website. See the image below.)
 
-![image](https://github.com/Weyaxi/virustotal-uploader/assets/81961593/668db708-cadf-400b-aea0-658bfa4ff51b)
+![image](https://github.com/Weyaxi/virustotal-uploader/assets/81961593/32c796fb-61c8-439f-bcf9-c2e2c3e196ab)
 
 ## Setup
 
@@ -57,16 +57,17 @@ To add a "Send to VirusTotal" option to the right-click context menu in Windows 
 
 Right-click any file in Windows Explorer and select "Send to VirusTotal". The program will upload the file to VirusTotal and open the analysis results.
 
-![image](https://github.com/Weyaxi/virustotal-uploader/assets/81961593/8271ddb0-384a-4ebb-a6e5-d57e6dbfc823)
+![image](https://github.com/Weyaxi/virustotal-uploader/assets/81961593/721366ab-d2c7-49c0-9aa5-e6bc012e374b)
 
 ## Demo
 
 ### File Already on VirusTotal
 
-![1](https://github.com/Weyaxi/virustotal-uploader/assets/81961593/90c8e7de-b58e-4a9f-924d-654efee7d900)
+![3](https://github.com/Weyaxi/virustotal-uploader/assets/81961593/0c7f8bf2-e0de-4424-8866-09d0c5a5e01c)
 
 ### File Currently Not On VirusTotal (You Are Uploading)
 
-![2](https://github.com/Weyaxi/virustotal-uploader/assets/81961593/0b62a979-fcf0-4f02-917c-bca02d20ef40)
+![4](https://github.com/Weyaxi/virustotal-uploader/assets/81961593/83296913-bddf-49df-943e-657ea28cb6c6)
+
 
 
