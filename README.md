@@ -53,7 +53,7 @@ Right-click any file in Windows Explorer and select "Send to VirusTotal". The pr
 
 ![image](https://github.com/Weyaxi/virustotal-uploader/assets/81961593/8271ddb0-384a-4ebb-a6e5-d57e6dbfc823)
 
-# Demo
+## Demo
 
 
 
