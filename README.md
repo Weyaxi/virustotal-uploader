@@ -10,7 +10,9 @@ Before using this program, make sure you have the following:
 - Liblaries from `requirements.txt`
 - API key from VirusTotal. (You can obtain an API key by creating an account on the VirusTotal website. See the image below.)
 
-![image](https://github.com/Weyaxi/virustotal-uploader/assets/81961593/32c796fb-61c8-439f-bcf9-c2e2c3e196ab)
+![image](https://github.com/Weyaxi/virustotal-uploader/assets/81961593/302f911e-0a7d-4886-a1aa-99efac1a9939)
+
+![image](https://github.com/Weyaxi/virustotal-uploader/assets/81961593/071ddd6f-19ff-4e74-9609-5bc7263600b1)
 
 ## Setup
 
