@@ -5,7 +5,7 @@ import hashlib
 import argparse
 
 def main(file_path):
-    api_key = "<your_api_key>"
+    api_key = "<your_api_key>" # your api key here 
 
     headers = {
         "accept": "application/json",
@@ -37,7 +37,7 @@ def main(file_path):
     check_link = f"https://www.virustotal.com/api/v3/files/{sha}"
     try:
         requests.get(check_link, headers=headers).json()['error']['code']
-    except KeyError:  # File already exists
+    except KeyError:  # File already exists 
         webbrowser.open(f"https://www.virustotal.com/gui/file/{sha}")
         exit()
 
